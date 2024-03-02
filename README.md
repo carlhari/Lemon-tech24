@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carl Hari Alisangco</h1>
-<h3 align="center">A inspiring FullStack Developer.</h3>
+<h3 align="center">An Aspiring FullStack Developer.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
